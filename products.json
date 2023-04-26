@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "title": "SPITFIRE HOODIE BIGHEAD",
+    "description": "Hoddie color naranja, con estampa al frente.",
+    "price": 10,
+    "thumbnail": "spitfire.jpg",
+    "code": "2Hoddie",
+    "stock": 5
+  },
+  {
+    "id": 1,
+    "title": "SINCOPE DECK KOALA BUONA PASTA 8.25",
+    "description": "Tabla skate Sincope",
+    "price": 19,
+    "thumbnail": "sincope.jpg",
+    "code": "20Deck",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "title": "TABLA CREATURE GRAPHIC MONSTER MOBILE 8",
+    "description": "Tabla Creature",
+    "price": 21.3,
+    "thumbnail": "creature.jpg",
+    "code": "21Deck",
+    "stock": 3
+  },
+  {
+    "id": 3,
+    "title": "DECK CLEAVER MARTINEZ KEYS BLANCO",
+    "description": "Tabla skate Cleaver",
+    "price": 18.2,
+    "thumbnail": "cleaver.jpg",
+    "code": "22Deck",
+    "stock": 9
+  },
+  {
+    "id": 4,
+    "title": "DECK SANTA CRUZ SALBA TIGER HAND BORDO 9.25",
+    "description": "Tabla Santa Cruz",
+    "price": 30,
+    "thumbnail": "deckSC.jpg",
+    "code": "23Deck",
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "title": "Nike Air Force one",
+    "description": "blanca",
+    "price": 30,
+    "thumbnail": "Nike.jpg",
+    "code": "31AirF",
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "title": "Vans old",
+    "description": "Un clásico",
+    "price": 23,
+    "thumbnail": "VANS.jpg",
+    "code": "32Va",
+    "stock": 23
+  },
+  {
+    "id": 7,
+    "title": "Vans x NatGeo",
+    "description": "Colaboración con NatGeo",
+    "price": 20,
+    "thumbnail": "vansNatGeo.jpg",
+    "code": "33VaNG",
+    "stock": 10
+  },
+  {
+    "id": 8,
+    "title": "Vans x Simpsons",
+    "description": "Colaboración con Simpsons",
+    "price": 25,
+    "thumbnail": "vanSimp.jpg",
+    "code": "34VaS",
+    "stock": 12
+  },
+  {
+    "id": 9,
+    "title": "Pantalón New Balance Unissentials Swea",
+    "description": "Ofrece una expresión sin género del estilo clásico de esta marca.",
+    "price": 15.2,
+    "thumbnail": "NewBalancePants.jpg",
+    "code": "35NBPants",
+    "stock": 10
+  },
+  {
+    "id": 10,
+    "title": "Campera adidas originals 3 Stripe Wrap",
+    "description": "Confeccionada en tejido poliéster 100% reciclado, cierre delantero, cuello alzado , bolsillos frontales con cremallera.",
+    "price": 27,
+    "thumbnail": "camperaAdidas.jpg",
+    "code": "36Adid",
+    "stock": 5
+  }
+]
